@@ -58,7 +58,7 @@ Ensure you have the following installed:
 Endpoint:
 GET /api/info/
 ```urls
-https://hng12stage0-e2hb.onrender.com
+hng12stage0-production-4792.up.railway.app
 https://hng.tech/hire/python-developers
 ```
 

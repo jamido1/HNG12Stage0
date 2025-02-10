@@ -58,7 +58,7 @@ Ensure you have the following installed:
 Endpoint:
 GET /api/info/
 ```urls
-https://hng12-api-neel.onrender.com/info/
+https://hng12stage0-e2hb.onrender.com
 https://hng.tech/hire/python-developers
 ```
 
